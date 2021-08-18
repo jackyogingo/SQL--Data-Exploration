@@ -1,2 +1,2 @@
 # SQL--Data-Exploration
-In this repo I have projects where I have done data exploration using SQL 
+I will store all code or documents related to data exploration using SQL in this repository.
